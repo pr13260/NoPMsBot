@@ -71,8 +71,8 @@ START_OTHER_USERS_TEXT = get_config(
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
+        "i am online🤖🤖 <b>master</b>\n\n"
+        "Ready to rock 😎😎"
         "ℹ️ Subscribe @united_hackerZ if you 😍 using this bot❗️❣️"
     )
 )
@@ -98,14 +98,14 @@ REASON_DE_LIMIT_ER = get_config(
 IS_UN_BANED_MESSAGE_TEXT = get_config(
     "IS_UN_BANED_MESSAGE_TEXT",
     (
-        "You have been <b>un-banned</b>.\n\n"
-        "<u>Reason</u>: <code>{reason}</code>"
+        "You have been <b>un-banned</b>💟💟.\n\n"
+        "<u>Reason💋💋</u>: <code>{reason}</code>"
     )
 )
 # message to show if bot was blocked by user
 BOT_WS_BLOCKED_BY_USER = get_config(
     "BOT_WS_BLOCKED_BY_USER",
-    "Bot was blocked by the user."
+    "Bot was blocked by the user💔💔."
 )
 # path to store LOG files
 LOG_FILE_ZZGEVC = get_config("LOG_FILE_ZZGEVC", "NoPMsBot.log")
